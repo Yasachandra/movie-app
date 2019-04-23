@@ -14,4 +14,4 @@ run npm install
 start with npm start
 Access http://localhost:4200
 
-Note: The api sed to fetch the movie collection is http://starlord.hackerearth.com/movies
+Note: The api used to fetch the movie collection is http://starlord.hackerearth.com/movies
